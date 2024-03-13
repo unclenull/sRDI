@@ -1,4 +1,4 @@
-# sRDI - Shellcode Reflective DLL Injection
+# [sRDI - Shellcode Reflective DLL Injection](https://silentbreaksecurity.com/blog/technical/adversary-simulation/srdi-shellcode-reflective-dll-injection/)
 sRDI allows for the conversion of DLL files to position independent shellcode. It attempts to be a fully functional PE loader supporting proper section permissions, TLS callbacks, and sanity checks. It can be thought of as a shellcode PE loader strapped to a packed DLL.
 
 Functionality is accomplished via two components:
